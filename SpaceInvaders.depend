@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1505320582 source:h:\school\spaceinvaders\main.cpp
+	<vector>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<list>
+	<cstdlib>
+	"variables.h"
+
+1508172458 source:e:\school\spaceinvaders\main.cpp
+	<vector>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<list>
+	<cstdlib>
+
+1505320572 h:\school\spaceinvaders\variables.h
+
+1505320572 e:\school\spaceinvaders\variables.h
+
